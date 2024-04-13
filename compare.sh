@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# This script has been created for migrating ORM packages into Cyclovriend projects
-
 # Define the directories to compare
 directory1=
 directory2=
